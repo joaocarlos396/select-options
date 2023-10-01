@@ -31,7 +31,7 @@ public class SelectAOption {
                 // Add game logic here if desired
                 break;
             case 2:
-                System.out.println("Exiting the program. Goodbye!");
+                System.out.println("Exiting the program. Goodbye! hope to see you soon");
                 System.exit(0);
                 break;
             default:
